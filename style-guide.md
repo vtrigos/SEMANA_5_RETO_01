@@ -1,7 +1,5 @@
 # Front-end Style Guide
 
-Reto 01 - Semana 5
-
 ## Layout
 
 - width: 375px
